@@ -1,2 +1,2 @@
 # Nike-Clone
-https://shaheerinayatali.github.io/NikeLand-Clone/
+https://shaheereminent.github.io/Nikeland-nonResponsive/
